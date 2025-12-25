@@ -1,4 +1,5 @@
 pytz
+m3u8
 pyrogram
 tgcrypto
 requests
@@ -8,3 +9,9 @@ pyromod
 yt-dlp
 ffmpeg-python
 python-dotenv
+beautifulsoup4
+lxml
+cloudscraper
+httpx
+pyaes
+pycryptodome
