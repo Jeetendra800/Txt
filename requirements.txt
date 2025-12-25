@@ -1,5 +1,6 @@
 pytz
 m3u8
+pytube
 pyrogram
 tgcrypto
 requests
@@ -15,3 +16,4 @@ cloudscraper
 httpx
 pyaes
 pycryptodome
+static-ffmpeg
